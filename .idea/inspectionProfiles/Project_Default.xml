@@ -1,0 +1,115 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+            <item index="2" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="91">
+            <item index="0" class="java.lang.String" itemvalue="pyuca" />
+            <item index="1" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="2" class="java.lang.String" itemvalue="redis" />
+            <item index="3" class="java.lang.String" itemvalue="awesome-slugify" />
+            <item index="4" class="java.lang.String" itemvalue="django-echoices" />
+            <item index="5" class="java.lang.String" itemvalue="django-countries" />
+            <item index="6" class="java.lang.String" itemvalue="boss-oidc" />
+            <item index="7" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="8" class="java.lang.String" itemvalue="django-braces" />
+            <item index="9" class="java.lang.String" itemvalue="django-user-agents" />
+            <item index="10" class="java.lang.String" itemvalue="django-model-utils" />
+            <item index="11" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="12" class="java.lang.String" itemvalue="tablib" />
+            <item index="13" class="java.lang.String" itemvalue="django-cruds-adminlte" />
+            <item index="14" class="java.lang.String" itemvalue="djangoajax" />
+            <item index="15" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="16" class="java.lang.String" itemvalue="django-oidc" />
+            <item index="17" class="java.lang.String" itemvalue="paramiko" />
+            <item index="18" class="java.lang.String" itemvalue="django-filter" />
+            <item index="19" class="java.lang.String" itemvalue="django-allauth" />
+            <item index="20" class="java.lang.String" itemvalue="django-constrainedfilefield" />
+            <item index="21" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="22" class="java.lang.String" itemvalue="django-environ" />
+            <item index="23" class="java.lang.String" itemvalue="drf-oidc-auth" />
+            <item index="24" class="java.lang.String" itemvalue="django-envelope" />
+            <item index="25" class="java.lang.String" itemvalue="msrestazure" />
+            <item index="26" class="java.lang.String" itemvalue="django-tables2" />
+            <item index="27" class="java.lang.String" itemvalue="measurement" />
+            <item index="28" class="java.lang.String" itemvalue="celery" />
+            <item index="29" class="java.lang.String" itemvalue="django-icons" />
+            <item index="30" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="31" class="java.lang.String" itemvalue="django-measurement" />
+            <item index="32" class="java.lang.String" itemvalue="django-honeypot" />
+            <item index="33" class="java.lang.String" itemvalue="rcssmin" />
+            <item index="34" class="java.lang.String" itemvalue="six" />
+            <item index="35" class="java.lang.String" itemvalue="django-chartjs" />
+            <item index="36" class="java.lang.String" itemvalue="django-select2" />
+            <item index="37" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="38" class="java.lang.String" itemvalue="django-formset-bootstrap" />
+            <item index="39" class="java.lang.String" itemvalue="social-auth-core" />
+            <item index="40" class="java.lang.String" itemvalue="msrest" />
+            <item index="41" class="java.lang.String" itemvalue="coreapi" />
+            <item index="42" class="java.lang.String" itemvalue="django" />
+            <item index="43" class="java.lang.String" itemvalue="django-ipware" />
+            <item index="44" class="java.lang.String" itemvalue="social-auth-app-django" />
+            <item index="45" class="java.lang.String" itemvalue="django-analytical" />
+            <item index="46" class="java.lang.String" itemvalue="django-redis" />
+            <item index="47" class="java.lang.String" itemvalue="argon2-cffi" />
+            <item index="48" class="java.lang.String" itemvalue="pytz" />
+            <item index="49" class="java.lang.String" itemvalue="django-celery-growthmonitor" />
+            <item index="50" class="java.lang.String" itemvalue="django-keycloak" />
+            <item index="51" class="java.lang.String" itemvalue="Pillow" />
+            <item index="52" class="java.lang.String" itemvalue="django_debug_toolbar" />
+            <item index="53" class="java.lang.String" itemvalue="chart-studio" />
+            <item index="54" class="java.lang.String" itemvalue="kaleido" />
+            <item index="55" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="56" class="java.lang.String" itemvalue="reportlab" />
+            <item index="57" class="java.lang.String" itemvalue="django_extensions" />
+            <item index="58" class="java.lang.String" itemvalue="azure-common" />
+            <item index="59" class="java.lang.String" itemvalue="django-cookie-law" />
+            <item index="60" class="java.lang.String" itemvalue="pandas" />
+            <item index="61" class="java.lang.String" itemvalue="django-autoslug" />
+            <item index="62" class="java.lang.String" itemvalue="django-csp" />
+            <item index="63" class="java.lang.String" itemvalue="azure-storage-blob" />
+            <item index="64" class="java.lang.String" itemvalue="django-impersonate" />
+            <item index="65" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="66" class="java.lang.String" itemvalue="django-pglocks" />
+            <item index="67" class="java.lang.String" itemvalue="django-iprestrict" />
+            <item index="68" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="69" class="java.lang.String" itemvalue="currencyconverter" />
+            <item index="70" class="java.lang.String" itemvalue="numpy" />
+            <item index="71" class="java.lang.String" itemvalue="pyjwt" />
+            <item index="72" class="java.lang.String" itemvalue="glob2" />
+            <item index="73" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="74" class="java.lang.String" itemvalue="bleach" />
+            <item index="75" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="76" class="java.lang.String" itemvalue="statsmodels" />
+            <item index="77" class="java.lang.String" itemvalue="plotly" />
+            <item index="78" class="java.lang.String" itemvalue="pathlib2" />
+            <item index="79" class="java.lang.String" itemvalue="django-prometheus" />
+            <item index="80" class="java.lang.String" itemvalue="psutil" />
+            <item index="81" class="java.lang.String" itemvalue="azure-kusto-data" />
+            <item index="82" class="java.lang.String" itemvalue="django-bootstrap-modal-forms" />
+            <item index="83" class="java.lang.String" itemvalue="django-celery-results" />
+            <item index="84" class="java.lang.String" itemvalue="django-guardian" />
+            <item index="85" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="86" class="java.lang.String" itemvalue="django-timezone-field" />
+            <item index="87" class="java.lang.String" itemvalue="tzdata" />
+            <item index="88" class="java.lang.String" itemvalue="azure-mgmt-storage" />
+            <item index="89" class="java.lang.String" itemvalue="adal" />
+            <item index="90" class="java.lang.String" itemvalue="django-js-reverse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
